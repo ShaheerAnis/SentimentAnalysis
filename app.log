@@ -1,0 +1,159 @@
+2023-10-08 14:38:46,450 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-08 14:38:46,450 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-08 14:38:46,465 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:38:47,403 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:38:47,403 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:41:06,180 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user.py', reloading
+2023-10-08 14:41:06,405 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:41:08,038 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:41:08,038 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:41:48,497 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user.py', reloading
+2023-10-08 14:41:48,698 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:41:49,889 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:41:49,900 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:43:08,540 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user.py', reloading
+2023-10-08 14:43:08,679 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:43:09,595 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:43:09,595 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:43:21,941 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user.py', reloading
+2023-10-08 14:43:22,074 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:43:22,992 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:43:22,992 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:45:21,789 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user\\user.py', reloading
+2023-10-08 14:45:21,939 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:45:23,179 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:45:23,192 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:55:06,108 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-08 14:55:06,108 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-08 14:55:06,108 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 14:55:07,048 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 14:55:07,064 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 14:55:19,516 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 14:55:19] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-08 14:55:20,076 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 14:55:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-08 15:20:18,010 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\project_model.py', reloading
+2023-10-08 15:20:18,150 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:20:19,326 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:20:19,342 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:21:45,385 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 15:21:45,601 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:21:46,556 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:21:46,571 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:22:15,572 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 15:22:15,755 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:22:16,692 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:22:16,708 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:22:24,008 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 15:22:24,152 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:22:25,406 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:22:25,423 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:23:43,777 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\status_model.py', reloading
+2023-10-08 15:23:43,906 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:23:45,058 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:23:45,074 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:24:28,682 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\status_model.py', reloading
+2023-10-08 15:24:28,830 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:24:30,181 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:24:30,197 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:24:34,459 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 15:24:34,578 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:24:35,628 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:24:35,643 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:25:21,974 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 15:25:22,270 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:25:23,792 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:25:23,809 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:25:42,858 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\__init__.py', reloading
+2023-10-08 15:25:42,995 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:25:43,994 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:25:44,009 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:26:33,337 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\app.py', reloading
+2023-10-08 15:26:33,688 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:26:35,057 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:26:35,073 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:32:47,294 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-08 15:32:47,294 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-08 15:32:47,294 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:32:48,387 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:32:48,403 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:32:56,593 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:32:56] "GET / HTTP/1.1" 200 -
+2023-10-08 15:34:57,308 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user\\user.py', reloading
+2023-10-08 15:34:57,496 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:34:59,776 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:34:59,784 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:35:01,039 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:35:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-10-08 15:35:01,582 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:35:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-10-08 15:35:01,622 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:35:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-10-08 15:35:01,810 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:35:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-10-08 15:35:01,941 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:35:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-10-08 15:36:16,032 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\config.py', reloading
+2023-10-08 15:36:16,273 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 15:36:17,552 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 15:36:17,564 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 15:36:25,181 - werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 15:36:25] "GET / HTTP/1.1" 200 -
+2023-10-08 19:09:36,681 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:09:37,010 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:09:38,167 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:09:38,177 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:09:53,904 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:09:54,083 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:09:55,554 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:09:55,570 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:14:04,299 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:14:04,430 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:14:09,577 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:14:09,590 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:14:13,874 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:14:14,086 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:14:15,123 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:14:15,133 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:14:22,501 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:14:22,707 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:14:24,367 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:14:24,384 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:14:52,654 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:14:52,798 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:14:54,014 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:14:54,022 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:16:11,900 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:16:12,055 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:16:13,122 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:16:13,130 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:16:15,259 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:16:15,527 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:16:16,586 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:16:16,600 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:16:34,291 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\project\\project.py', reloading
+2023-10-08 19:16:34,432 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:16:35,400 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:16:35,416 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:19:43,417 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\comment_model.py', reloading
+2023-10-08 19:19:43,555 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:19:44,978 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:19:44,988 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:19:58,586 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\project_model.py', reloading
+2023-10-08 19:19:58,833 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:20:00,138 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:20:00,150 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:20:07,469 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\status_model.py', reloading
+2023-10-08 19:20:07,590 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:20:08,868 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:20:08,879 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:20:12,075 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\status_model.py', reloading
+2023-10-08 19:20:12,200 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:20:13,416 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:20:13,432 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:20:26,003 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\Models\\user_model.py', reloading
+2023-10-08 19:20:26,168 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:20:27,133 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:20:27,133 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:22:01,917 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\config.py', reloading
+2023-10-08 19:22:02,104 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:22:03,483 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:22:03,498 - werkzeug - INFO -  * Debugger PIN: 143-420-325
+2023-10-08 19:22:14,949 - werkzeug - INFO -  * Detected change in 'E:\\SHAHEER\\Projects\\Projects\\Websites\\SentimentAnalysis\\web\\blueprints\\user\\user.py', reloading
+2023-10-08 19:22:15,189 - werkzeug - INFO -  * Restarting with stat
+2023-10-08 19:22:16,667 - werkzeug - WARNING -  * Debugger is active!
+2023-10-08 19:22:16,683 - werkzeug - INFO -  * Debugger PIN: 143-420-325
